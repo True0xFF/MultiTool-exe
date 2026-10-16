@@ -10,4 +10,4 @@
 - подписан самоподписанным сертификатом (Authenticode SHA-256), сертификат
   для доверия — `multitool-codesign.crt`.
 
-**SHA-256:** `0884435928bf9dc1132943eb7b412a6e64fdd02ea84625b2c0770b7a790e8c9e`
+**SHA-256:** `c6398b682a48221ccfb790bf755d5879c1dc6934c3bf8feb6ea58d363c815082`
